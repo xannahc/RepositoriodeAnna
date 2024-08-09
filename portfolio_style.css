@@ -1,0 +1,42 @@
+body{
+    background-color: #f1d7e0;
+    font-family: "Montserrat", sans-serif;
+    
+}
+.cabecera{
+    text-align: center;
+}
+#tituloprincipal{
+    background-color: #f0a3ab;
+    padding: 20px;
+    color:black;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    
+    
+}
+
+#introduccion{
+    text-align: center;
+    background-color: #9ad6cb;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+section li{
+    text-align:left;
+}
+.contenedores{
+    text-align: center;
+    background-color:#ddb8ec;
+    padding: 50px;
+}
+div{
+    img {
+        box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
+    }
+    
+}
+footer{
+    background-color: #9ad6cb;
+    text-align: center;
+}
